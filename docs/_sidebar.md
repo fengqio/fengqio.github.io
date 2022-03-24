@@ -1,12 +1,12 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
    - Java 相关
-   
+       - [Prometheus](/md/Java/Prometheus.md)
    - 基础功能
-
-   - 算法笔记
-
+       - 待编辑
+   - 算法
+       - 待编辑
    - 读书记录
-       
+     
        - [2022-02-读书记录](/md/book/2022-02-book.md)
        - [2022-03-读书记录](/md/book/2022-03-book.md)
